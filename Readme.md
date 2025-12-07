@@ -24,14 +24,6 @@ It fetches real-time weather data from the OpenWeatherMap API and displays tempe
 
 
 
----
-
-📸 Demo Preview
-
-(Add screenshot here if you want)
-
-![Weather App Screenshot](screenshot.png)
-
 
 ---
 
